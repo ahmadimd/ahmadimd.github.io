@@ -3,8 +3,8 @@ During my academic years, I have been aiming to achieve professional and teamwor
 
 ## 🎓 Education
 
-- **B.Sc.**, Mathematics and applications ( Major ) – Computer Science ( Minor )	| <a href="https://shirazu.ac.ir/" target="_blank">Shiraz University</a> (_SEP 2019 - JUN 2024_)	 			        		
-- **Dip.**, | <a href="https://cattheni.edu.in/" target="_blank">Shahid Beheshti High School ( SAMPAD )</a> (_SEP 2016 - JUL 2019_)
+- **B.Sc.**, Mathematics and applications  ( Major ) – Computer Science ( Minor )	| <a href="https://shirazu.ac.ir/" target="_blank">Shiraz University</a> (_SEP 2019 - JUN 2024_)	 			        		
+- **Dip.**, | <a href="[https://cattheni.edu.in/](https://en.wikipedia.org/wiki/National_Organization_for_Development_of_Exceptional_Talents)" target="_blank">Shahid Beheshti High School ( SAMPAD )</a> (_SEP 2016 - JUL 2019_)
 
 #### Technical Skills:
 
