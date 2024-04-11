@@ -9,8 +9,8 @@ During my academic years, I have been aiming to achieve professional and teamwor
 ## 💼 Work experience 
 **Teaching Assistant at <a href="https://www.fiverr.com/allanvictor_?public_mode=true" target="_blank">Shiraz University</a> (_September 2020 - Present_)**
 - Teaching Assistant in Fundamentals of Computer Programming , Principles of Computer Programming, Advanced Programming (OOP),Fundamentals of Numerical Analysis
+
 **Junior Data Scientist at <a href="https://www.fiverr.com/" target="_blank">ChinaShops</a> (_May 2022 - September 2023_)**
-- Teaching Assistant in Fundamentals of Computer Programming , Principles of Computer Programming, Advanced Programming (OOP),Fundamentals of Numerical Analysis
 
 #### Technical Skills:
 
