@@ -8,10 +8,14 @@ During my academic years, I have been aiming to achieve professional and teamwor
 
 #### Technical Skills:
 
-- Programming Languages: _Proficient in R, Python, Linux command line; experience with Shiny, Google Colab._
-- Phenomics and Genomics: _Expertise in molecular breeding techniques, NGS data analysis, QTL/GWAS, genomic selection, designing field trials, managing phenotyping pipelines, and analyzing high-throughput phenotypic and genotypic data._
-- Data Science: _Multivariate analysis, machine learning, large scale genomic data analysis and visualization._
+- Programming Languages: _Proficient in Python, MATLAB; experience with C++, C._
+- Deeplearning: _Image Processing, CNN, RNN, SNN, Auto-Encoders, Data Analysis and Visualization_
+- Python Packages: _Tensorflow, Keras, Pytorch, Matplotlib, Scikit-Learn_
 
+## 📃 Tests
+- Certified score of **102** in the **TOEFL** [ March 2023 ]
+- Certified score of **331** in the **GRE** [ October 2022 ]
+- 
 ## 💼 Work experience 
 **Data Science Consultant @ <a href="https://www.fiverr.com/allanvictor_?public_mode=true" target="_blank">Fiverr</a> (_Decembe 2020 - Present_)**
 - 5⭐ rated freelancer with over 200 hours of data analysis and visualization projects completed in R with over six years of experience specializing in genomic data analysis and bioinformatics.
@@ -34,11 +38,12 @@ During my academic years, I have been aiming to achieve professional and teamwor
 - Workflow automation to enhance reproducibility and to faster workflow. 
 
 ## 🎤 Workshop and Conferences
-- Attended the workshop on "<a href="https://twitter.com/GenebankICRISAT/status/1169137453472669696" target="_blank">A15 DArTSeq Data Analysis</a>" at <a href="https://www.cimmyt.org/" target="_blank">CIMMYT</a>, Mexico
-- Attended the international conference on <a href="https://twitter.com/GenebankICRISAT/status/1158297753371308032" target="_blank">"Neglected and Underutilized Crop Species for Food, Nutrition, Energy and Environment"</a> at NIPGR, New Delhi. Awarded a travel grant in recognition of contribution. 
-- Attended the workshop on **<a href="https://www.facebook.com/media/set/?vanity=natesan.senthil&set=a.5804435956243670" target="_blank">HPLC: "Principles and Applications in Plant Metabolomics"</a>**" at TNAU,Coimbaotore.
-- Attended the workshop on **<a href="https://www.covaichronicle.com/english/contentview/natu?fbclid=IwAR0fA8w7ubx__cGaKnmE-68-tmRLg92XHs1Rf-HnhQzRjmFc_calVar8yFo" target="_blank">Molecular Modelling and Docking</a>** at TNAU, Coimbatore.
-- Presented poster titled "**Genes for salt tolerance revealed by functional metagenomics in rice**" at 6<sup>th</sup> National conference AC&RI, TNAU, Trichy. 
+- Collaborated as the instructor of **<a href="http://sns.ee.sharif.ir" target="_blank">Machine Learning and Deep Learning with TensorFlow2"</a>**" on Introductory workshop on Artiﬁcial Intelligence and Deep Learning held by Shiraz University.
+- Collaborated as instructor of **<a href="http://sns.ee.sharif.ir" target="_blank">Natural Language Processing"</a>**", href="http://sns.ee.sharif.ir" target="_blank">Spiking Neural Networks"</a>**" , and **<a href="http://sns.ee.sharif.ir" target="_blank">Computer Vision"</a>**" workshops on Advanced workshop on Artiﬁcial Intelligence and Deep Learning held by Shiraz University.
+- Collaborated as the keynote speaker at SHUAI23 held by Shiraz University.
+- Collaborated as event organizer at Code Bazaar programming event
+- Attended the winter school on **<a href="http://sns.ee.sharif.ir" target="_blank">Mathematical Psychology"</a>**" at Shahid Beheshti University.
+- Attended the symposium on **<a href="http://sns.ee.sharif.ir" target="_blank">NeuroScience</a>** at Sharif University of Technology.
 
 ## 📚 References
 
