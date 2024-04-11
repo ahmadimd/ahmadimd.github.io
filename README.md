@@ -6,6 +6,12 @@ During my academic years, I have been aiming to achieve professional and teamwor
 - **B.Sc.**, Mathematics and applications  ( Major ) – Computer Science ( Minor )	| <a href="https://shirazu.ac.ir/" target="_blank">Shiraz University</a> (_SEP 2019 - JUN 2024_)	 			        		
 - **Dip.**, | <a href="[https://cattheni.edu.in/](https://en.wikipedia.org/wiki/National_Organization_for_Development_of_Exceptional_Talents)" target="_blank">Shahid Beheshti High School ( SAMPAD )</a> (_SEP 2016 - JUL 2019_)
 
+## 💼 Work experience 
+**Teaching Assistant at <a href="https://www.fiverr.com/allanvictor_?public_mode=true" target="_blank">Shiraz University</a> (_September 2020 - Present_)**
+- Teaching Assistant in Fundamentals of Computer Programming , Principles of Computer Programming, Advanced Programming (OOP),Fundamentals of Numerical Analysis
+**Junior Data Scientist at <a href="https://www.fiverr.com/" target="_blank">ChinaShops</a> (_May 2022 - September 2023_)**
+- Teaching Assistant in Fundamentals of Computer Programming , Principles of Computer Programming, Advanced Programming (OOP),Fundamentals of Numerical Analysis
+- 
 #### Technical Skills:
 
 - Programming Languages: _Proficient in Python, MATLAB; experience with C++, C._
@@ -15,12 +21,6 @@ During my academic years, I have been aiming to achieve professional and teamwor
 ## 📃 Tests
 - Certified score of **102** in the **TOEFL** [ March 2023 ]
 - Certified score of **331** in the **GRE** [ October 2022 ]
-- 
-## 💼 Work experience 
-**Data Science Consultant @ <a href="https://www.fiverr.com/allanvictor_?public_mode=true" target="_blank">Fiverr</a> (_Decembe 2020 - Present_)**
-- 5⭐ rated freelancer with over 200 hours of data analysis and visualization projects completed in R with over six years of experience specializing in genomic data analysis and bioinformatics.
-- Proficient in handling big data and performing complex modelling using popular R libraries and packages such as tidyr, data.table, dplyr, plyr, tenserflow, ggplot, ggdendro, ggtree, ggheatmap, and circos. 
-- Received positive feedback from clients for knowledge, professionalism, and mastery of R programming. Demonstrated ability to deliver high-quality work as evidenced by the portfolio available on the <a href="https://www.fiverr.com/allanvictor_?public_mode=true" target="_blank">Profile</a>. 
 
 ## 💻 Programming and data analysis skills
 - Proficient in full stack development of **R packages** using modular coding practices.
@@ -39,7 +39,7 @@ During my academic years, I have been aiming to achieve professional and teamwor
 
 ## 🎤 Workshop and Conferences
 - Collaborated as the instructor of **<a href="http://sns.ee.sharif.ir" target="_blank">Machine Learning and Deep Learning with TensorFlow2"</a>**" on Introductory workshop on Artiﬁcial Intelligence and Deep Learning held by Shiraz University.
-- Collaborated as instructor of **<a href="http://sns.ee.sharif.ir" target="_blank">Natural Language Processing"</a>**", href="http://sns.ee.sharif.ir" target="_blank">Spiking Neural Networks"</a>**" , and **<a href="http://sns.ee.sharif.ir" target="_blank">Computer Vision"</a>**" workshops on Advanced workshop on Artiﬁcial Intelligence and Deep Learning held by Shiraz University.
+- Collaborated as instructor of **<a href="http://sns.ee.sharif.ir" target="_blank">Natural Language Processing"</a>**",**<a href="http://sns.ee.sharif.ir" target="_blank">Spiking Neural Networks"</a>**" , and **<a href="http://sns.ee.sharif.ir" target="_blank">Computer Vision"</a>**" workshops on Advanced workshop on Artiﬁcial Intelligence and Deep Learning held by Shiraz University.
 - Collaborated as the keynote speaker at SHUAI23 held by Shiraz University.
 - Collaborated as event organizer at Code Bazaar programming event
 - Attended the winter school on **<a href="http://sns.ee.sharif.ir" target="_blank">Mathematical Psychology"</a>**" at Shahid Beheshti University.
