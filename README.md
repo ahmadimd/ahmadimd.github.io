@@ -11,7 +11,7 @@ During my academic years, I have been aiming to achieve professional and teamwor
 - Teaching Assistant in Fundamentals of Computer Programming , Principles of Computer Programming, Advanced Programming (OOP),Fundamentals of Numerical Analysis
 **Junior Data Scientist at <a href="https://www.fiverr.com/" target="_blank">ChinaShops</a> (_May 2022 - September 2023_)**
 - Teaching Assistant in Fundamentals of Computer Programming , Principles of Computer Programming, Advanced Programming (OOP),Fundamentals of Numerical Analysis
-- 
+
 #### Technical Skills:
 
 - Programming Languages: _Proficient in Python, MATLAB; experience with C++, C._
