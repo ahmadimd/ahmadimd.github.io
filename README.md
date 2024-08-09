@@ -14,7 +14,7 @@ During my academic years, I have been aiming to achieve professional and teamwor
 
 #### Technical Skills:
 
-- Programming Languages: _Proficient in Python, MATLAB; experience with C++, C._
+- Programming Languages: _Proficient in Python, MATLAB, R; experience with C++, C, Java._
 - Deeplearning: _Image Processing, CNN, RNN, SNN, Auto-Encoders, Data Analysis and Visualization_
 - Python Packages: _Tensorflow, Keras, Pytorch, Matplotlib, Scikit-Learn_
 
@@ -23,12 +23,39 @@ During my academic years, I have been aiming to achieve professional and teamwor
 - Certified score of **331** in the **GRE** [ October 2022 ]
 
 ## 💻 Programming and data analysis skills
-- Proficient in full stack development of **R packages** using modular coding practices.
-- Created **production-grade Shiny web applications** for interactive data analysis and visualization and; expertise in dependency management tools like Golem for scalable deployment.
-- **Machine learning model** building for image classification/segmentation tasks; trained CNNs and other deep learning architectures in R, Python (PyCharm).
-- **Multivariate data analysis** of large-scale omics datasets including genomics, phenomics and metabolomics using cutting-edge bioinformatics tools.
-- Experience with analysis of **next-generation sequencing** data including quality control, read mapping, variant calling, expression quantification, metagenomic profiling, and associated statistical analysis using standard workflows in R and Python.
-- **Advanced visualization** for multi-dimensional biological data through Circos, ggtree, ggtreeextra, Cytoscape and other platforms.
+### Programming Languages
+- **Python:** Advanced proficiency in Python for AI and machine learning development, including deep learning frameworks such as TensorFlow, PyTorch, and Keras.
+- **C++:** Experience in performance-critical components.
+- **R:** Competent in statistical analysis and data visualization.
+- **Java:** Understanding of software engineering principles for scalable AI systems.
+
+### Computer Vision
+- **OpenCV:** Extensive use of OpenCV for image processing, feature extraction, and object detection.
+- **DLib:** Experience in facial recognition and landmark detection.
+- **YOLO / SSD:** Implemented real-time object detection using YOLO and SSD architectures.
+- **3D Vision:** Experience with stereo vision, depth estimation, and 3D reconstruction.
+- **Image Segmentation:** Proficient in semantic and instance segmentation using models like U-Net and Mask R-CNN.
+
+### Natural Language Processing (NLP)
+- **Text Preprocessing:** Expertise in text cleaning, tokenization, stemming, and lemmatization.
+- **NLP Libraries:** Proficient in using NLTK, SpaCy, and Hugging Face Transformers for text analysis and model deployment.
+- **Language Models:** Experience in training and fine-tuning BERT, GPT, and LSTM models for various NLP tasks like text classification, sentiment analysis, and language generation.
+- **Text Embedding:** Implemented word embeddings using Word2Vec, GloVe, and BERT.
+- **Named Entity Recognition (NER):** Developed NER systems using CRF and deep learning models.
+
+### Machine Learning & Deep Learning
+- **Model Development:** Experienced in building, training, and deploying machine learning models using Scikit-learn, TensorFlow, and PyTorch.
+- **Deep Neural Networks:** Expertise in CNNs, RNNs, GANs, and Transformers.
+- **Optimization Techniques:** Proficient in hyperparameter tuning, model optimization, and using advanced techniques such as learning rate schedules, dropout, and data augmentation.
+- **Deployment:** Familiar with deploying models using Docker, Flask, and cloud services like AWS, GCP, and Azure.
+- **MLOps:** Understanding of CI/CD pipelines, model versioning, and monitoring using tools like MLflow and Kubeflow.
+
+### Data Analysis
+- **Data Wrangling:** Skilled in data cleaning, manipulation, and transformation using Pandas and NumPy.
+- **Data Visualization:** Proficient in creating insightful visualizations using Matplotlib, Seaborn, and Plotly.
+- **Statistical Analysis:** Strong foundation in statistical methods, hypothesis testing, and A/B testing.
+- **Big Data Technologies:** Experience in handling large datasets using Hadoop, Spark, and Dask.
+- **Feature Engineering:** Expertise in identifying and creating features for machine learning models, including feature scaling, encoding, and selection techniques.
 
 **Additional Skills:**
   
