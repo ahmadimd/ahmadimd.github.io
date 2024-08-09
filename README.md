@@ -1,6 +1,3 @@
-#### Summary: 
-During my academic years, I have been aiming to achieve professional and teamwork competence to gain a higher chance of being involved in an advanced research group to excel in my academic path.
-
 ## 🎓 Education
 
 - **B.Sc.**, Mathematics and applications  ( Major ) – Computer Science ( Minor )	| <a href="https://shirazu.ac.ir/" target="_blank">Shiraz University</a> (_SEP 2019 - JUN 2024_)	 			        		
