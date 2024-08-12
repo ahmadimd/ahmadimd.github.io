@@ -28,17 +28,15 @@
 
 ### Computer Vision
 - **OpenCV:** Extensive use of OpenCV for image processing, feature extraction, and object detection.
-- **DLib:** Experience in facial recognition and landmark detection.
 - **YOLO / SSD:** Implemented real-time object detection using YOLO and SSD architectures.
 - **3D Vision:** Experience with stereo vision, depth estimation, and 3D reconstruction.
 - **Image Segmentation:** Proficient in semantic and instance segmentation using models like U-Net and Mask R-CNN.
 
 ### Natural Language Processing (NLP)
 - **Text Preprocessing:** Expertise in text cleaning, tokenization, stemming, and lemmatization.
-- **NLP Libraries:** Proficient in using NLTK, SpaCy, and Hugging Face Transformers for text analysis and model deployment.
+- **NLP Libraries:** Proficient in using NLTK and Hugging Face Transformers for text analysis and model deployment.
 - **Language Models:** Experience in training and fine-tuning BERT, GPT, and LSTM models for various NLP tasks like text classification, sentiment analysis, and language generation.
 - **Text Embedding:** Implemented word embeddings using Word2Vec, GloVe, and BERT.
-- **Named Entity Recognition (NER):** Developed NER systems using CRF and deep learning models.
 
 ### Machine Learning & Deep Learning
 - **Model Development:** Experienced in building, training, and deploying machine learning models using Scikit-learn, TensorFlow, and PyTorch.
@@ -49,9 +47,8 @@
 
 ### Data Analysis
 - **Data Wrangling:** Skilled in data cleaning, manipulation, and transformation using Pandas and NumPy.
-- **Data Visualization:** Proficient in creating insightful visualizations using Matplotlib, Seaborn, and Plotly.
+- **Data Visualization:** Proficient in creating insightful visualizations using Matplotlib, Seaborn, ggPlot.
 - **Statistical Analysis:** Strong foundation in statistical methods, hypothesis testing, and A/B testing.
-- **Big Data Technologies:** Experience in handling large datasets using Hadoop, Spark, and Dask.
 - **Feature Engineering:** Expertise in identifying and creating features for machine learning models, including feature scaling, encoding, and selection techniques.
 
 **Additional Skills:**
