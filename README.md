@@ -4,10 +4,10 @@
 - **Dip.**, | <a href="[https://cattheni.edu.in/](https://en.wikipedia.org/wiki/National_Organization_for_Development_of_Exceptional_Talents)" target="_blank">Shahid Beheshti High School ( SAMPAD )</a> (_SEP 2016 - JUL 2019_)
 
 ## 💼 Work experience 
-**Teaching Assistant at <a href="https://www.fiverr.com/allanvictor_?public_mode=true" target="_blank">Shiraz University</a> (_September 2020 - Present_)**
+**Teaching Assistant at <a href="https://shirazu.ac.ir" target="_blank">Shiraz University</a> (_September 2020 - Present_)**
 - Teaching Assistant in Fundamentals of Computer Programming , Principles of Computer Programming, Advanced Programming (OOP),Fundamentals of Numerical Analysis
 
-**Junior Data Scientist at <a href="https://www.fiverr.com/" target="_blank">ChinaShops</a> (_May 2022 - September 2023_)**
+**Junior Data Scientist at <a href="https://chinashops.ir" target="_blank">ChinaShops</a> (_May 2022 - September 2023_)**
 
 #### Technical Skills:
 
